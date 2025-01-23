@@ -11,6 +11,12 @@
     </a>
 </div>
 
+## YouTube Video
+
+<div align="center">
+    <iframe width="560" height="315" src="https://youtu.be/rMuSVyKENCc?si=q8vTmk1-4o1HO3mY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Overview
 
 Instagram story views booster tool , By adding all your followers in Private story
@@ -18,8 +24,7 @@ Instagram story views booster tool , By adding all your followers in Private sto
 
 ## Usage explanation
 First, download the tools. If you are using Windows, you will find a folder called tools-windows, which contains the tools in EXE format.
-If you are using a system other than Windows, you will find the tools in py format. Run them in a code editor that supports Python or via the terminal, but make sure that you have downloaded Python and installed all the libraries.
-> 7 The Option crack from the usernames and passwords file without combining them
+> If you are using a system other than Windows, you will find the tools in py format. Run them in a code editor that supports Python or via the terminal, but make sure that you have downloaded Python and installed all the libraries.
 - 1 Run the get_Sessionid-API tool and log in with a fake Instagram account or one you don't need.
 - 2 The account session will be extracted, it will be saved in the sessionids.txt file, open the file and you will find Sessionid API 1 and Sessionid API 2, we need Sessionid API 2, copy it 
 - 3 Now you will be asked for the Sessionid API 2, enter it.
