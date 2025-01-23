@@ -11,7 +11,6 @@
     </a>
 </div>
 
-## YouTube Video
 
 <div align="center">
     <iframe width="560" height="315" src="https://youtu.be/rMuSVyKENCc?si=q8vTmk1-4o1HO3mY" frameborder="0" allowfullscreen></iframe>
