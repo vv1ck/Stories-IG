@@ -1,6 +1,8 @@
 # Stories-IG
 
-<img src="Screenshot.png"></img>
+## YouTube Video
+
+[![Watch the video](Screenshot.png)](https://youtu.be/rMuSVyKENCc?si=q8vTmk1-4o1HO3mY)
 
 <div align="center">
     <a href="https://instagram.com/221298">
@@ -11,12 +13,7 @@
     </a>
 </div>
 
-## YouTube Video
-
-[![Watch the video](Screenshot.png)](https://youtu.be/rMuSVyKENCc?si=q8vTmk1-4o1HO3mY)
-
-Instagram story views booster tool , By adding all your followers in Private story
-
+Instagram story views booster tool , In the Instagram application, your story is not displayed to all your followers in the same way if the number of followers exceeds 1k followers, the tool adds all your followers in the Close Story (private story) to ensure that the story reaches all your followers, after adding all your followers in the private story, post anything in the story and when you are done, post a story in the private story so that your stories appear to all your followers.
 
 ## Usage explanation
 First, download the tools. If you are using Windows, you will find a folder called tools-windows, which contains the tools in EXE format.
